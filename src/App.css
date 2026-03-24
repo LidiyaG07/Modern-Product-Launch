@@ -1,4 +1,12 @@
 #root {
+  --color-black: #000000;
+  --color-gray: #929292;
+  --color-lightGray: #E9E9E9;
+  --color-white: #FFFFFF;
+  --color-lightGreen: #DFECC6;
+  --color-green: #8E9C78;
+  --color-darkGreen: #485C11;
+
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
